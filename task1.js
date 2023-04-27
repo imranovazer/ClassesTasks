@@ -1,0 +1,1 @@
+const Azer = "name";
